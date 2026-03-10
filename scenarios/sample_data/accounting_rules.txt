@@ -1,0 +1,31 @@
+ACCOUNTING RULES FOR P&L STATEMENT
+===================================
+
+1. REVENUE RECOGNITION
+   - All rows with Type = "income" are recognized as revenue in the period they appear.
+   - Revenue categories: Product Sales, Consulting Services, and any other income items.
+
+2. COST OF GOODS SOLD (COGS)
+   - Raw materials are classified as COGS (direct cost).
+   - COGS is subtracted from Revenue to compute Gross Profit.
+
+3. OPERATING EXPENSES (OPEX)
+   - Office rent, Salaries and wages, Utilities, Marketing and advertising,
+     Software subscriptions, Travel and entertainment are OPEX.
+   - OPEX is subtracted from Gross Profit to compute Operating Income (EBIT).
+
+4. REPORTING PERIODS
+   - Group transactions by month (YYYY-MM).
+   - Produce a summary row per month and an overall total.
+
+5. CALCULATIONS
+   - Gross Profit  = Total Revenue - COGS
+   - Gross Margin  = Gross Profit / Total Revenue * 100  (as a %)
+   - EBIT          = Gross Profit - Total OPEX
+   - Net Margin    = EBIT / Total Revenue * 100           (as a %)
+
+6. OUTPUT FORMAT
+   - Print a formatted table with columns:
+       Month | Revenue | COGS | Gross Profit | Gross Margin% | OPEX | EBIT | Net Margin%
+   - Include a TOTAL row at the bottom.
+   - Currency values should be formatted as  $X,XXX.XX

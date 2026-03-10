@@ -1,0 +1,24 @@
+Date,Category,Description,Amount,Type
+2024-01-05,Revenue,Product sales - Widget A,45000.00,income
+2024-01-12,Revenue,Product sales - Widget B,28500.00,income
+2024-01-15,Expense,Office rent,8000.00,expense
+2024-01-18,Expense,Salaries and wages,35000.00,expense
+2024-01-22,Revenue,Consulting services,12000.00,income
+2024-01-28,Expense,Raw materials,18500.00,expense
+2024-01-30,Expense,Utilities,1200.00,expense
+2024-02-03,Revenue,Product sales - Widget A,52000.00,income
+2024-02-08,Revenue,Product sales - Widget C,19000.00,income
+2024-02-12,Expense,Marketing and advertising,6500.00,expense
+2024-02-15,Expense,Office rent,8000.00,expense
+2024-02-18,Expense,Salaries and wages,35000.00,expense
+2024-02-22,Revenue,Consulting services,15000.00,income
+2024-02-25,Expense,Software subscriptions,2400.00,expense
+2024-02-28,Expense,Raw materials,22000.00,expense
+2024-03-04,Revenue,Product sales - Widget A,61000.00,income
+2024-03-10,Revenue,Product sales - Widget B,31000.00,income
+2024-03-14,Expense,Office rent,8000.00,expense
+2024-03-18,Expense,Salaries and wages,35000.00,expense
+2024-03-20,Revenue,Consulting services,18000.00,income
+2024-03-25,Expense,Travel and entertainment,3200.00,expense
+2024-03-28,Expense,Raw materials,25500.00,expense
+2024-03-30,Expense,Utilities,1350.00,expense

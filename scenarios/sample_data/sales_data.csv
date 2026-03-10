@@ -1,0 +1,26 @@
+Region,Salesperson,Product,Quarter,Units_Sold,Unit_Price,Discount_Pct,Returns
+North,Alice Chen,Widget A,Q1,120,375.00,5,8
+North,Alice Chen,Widget B,Q1,85,520.00,0,3
+North,Bob Martinez,Widget A,Q1,95,375.00,10,5
+North,Bob Martinez,Widget C,Q1,42,890.00,0,2
+South,Carol Davis,Widget A,Q1,200,375.00,5,12
+South,Carol Davis,Widget B,Q1,110,520.00,5,4
+South,David Lee,Widget C,Q1,67,890.00,10,1
+South,David Lee,Widget A,Q1,155,375.00,0,9
+East,Emma Wilson,Widget A,Q2,140,375.00,5,7
+East,Emma Wilson,Widget B,Q2,98,520.00,0,5
+East,Frank Brown,Widget C,Q2,55,890.00,5,3
+East,Frank Brown,Widget A,Q2,175,375.00,10,11
+West,Grace Taylor,Widget B,Q2,130,520.00,0,6
+West,Grace Taylor,Widget A,Q2,210,375.00,5,14
+West,Henry Moore,Widget C,Q2,78,890.00,0,2
+West,Henry Moore,Widget B,Q2,92,520.00,5,4
+North,Alice Chen,Widget A,Q3,160,375.00,5,9
+North,Alice Chen,Widget C,Q3,35,890.00,0,1
+North,Bob Martinez,Widget B,Q3,105,520.00,10,6
+South,Carol Davis,Widget A,Q3,230,375.00,5,15
+South,David Lee,Widget B,Q3,115,520.00,0,5
+East,Emma Wilson,Widget A,Q3,190,375.00,5,10
+East,Frank Brown,Widget C,Q3,62,890.00,10,2
+West,Grace Taylor,Widget A,Q3,245,375.00,5,16
+West,Henry Moore,Widget B,Q3,140,520.00,0,7

@@ -1,0 +1,35 @@
+# ── Secrets ───────────────────────────────────────────────────────────────────
+.env
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── Virtual environments ───────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+
+# ── macOS ─────────────────────────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ── IDEs ──────────────────────────────────────────────────────────────────────
+.idea/
+*.swp
+*.swo
+
+# ── Claude Code (machine-specific settings only) ──────────────────────────────
+# .claude/launch.json is intentionally tracked (project preview config)
+.claude/settings.local.json
+
+# ── Agent workspace temp dirs ─────────────────────────────────────────────────
+workspace_*/
